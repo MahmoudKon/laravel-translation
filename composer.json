@@ -1,5 +1,5 @@
 {
-    "name": "joedixon/laravel-translation",
+    "name": "mahmoudkon/laravel-translation",
     "description": "A tool for managing all of your Laravel translations",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^8.0||^9.0||^10.0",
+        "illuminate/support": "5.8.*||^6.0||^7.0||^8.0||^9.0||^10.0||^11.0",
         "laravel/legacy-factories": "^1.3"
     },
     "require-dev": {
